@@ -1,0 +1,15 @@
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\obj\Debug\net8.0\Playstore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\obj\Debug\net8.0\Playstore.AssemblyInfoInputs.cache
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\obj\Debug\net8.0\Playstore.AssemblyInfo.cs
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\obj\Debug\net8.0\Playstore.csproj.CoreCompileInputs.cache
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\bin\Debug\net8.0\Playstore.exe
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\bin\Debug\net8.0\Playstore.deps.json
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\bin\Debug\net8.0\Playstore.runtimeconfig.json
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\bin\Debug\net8.0\Playstore.dll
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\bin\Debug\net8.0\Playstore.pdb
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\obj\Debug\net8.0\Playstore.dll
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\obj\Debug\net8.0\refint\Playstore.dll
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\obj\Debug\net8.0\Playstore.pdb
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\obj\Debug\net8.0\Playstore.genruntimeconfig.cache
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\obj\Debug\net8.0\ref\Playstore.dll
+C:\Users\vnagaraj\source\repos\Playstore\Playstore\obj\Debug\net8.0\Playstore.sourcelink.json
